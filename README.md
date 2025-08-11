@@ -10,7 +10,7 @@
                 </td>
                 <td colspan="2">
     
-                    <h2>Our fleet is recruiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></h2>
+                <p>Our fleet is recruiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></p>
                 </td>
             </tr>
             <tr>
@@ -18,7 +18,7 @@
                 <td><input type="text" name="name"></td>
                 <td>Gender:</td>
                 <td>
-                <input type="text" name=gender value="male">Male<br>
+                <input type="text" name="gender" value="male">Male<br>
                 <input type="radio" name="gender" value="female">Female
                 </td>
             </tr>
