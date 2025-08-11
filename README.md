@@ -9,7 +9,7 @@
                     <img src="https://cdna.artstation.com/p/assets/images/images/063/206/520/large/vladimir-korshunov-1.jpg?1684965320" alt="Registration"                         height="150">
                 </td>
                 <td colspan="2">
-                    <p>Our fleet is recuiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></p>
+                    <p>Our fleet is recruiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></p>
                 </td>
             </tr>
             <tr>
