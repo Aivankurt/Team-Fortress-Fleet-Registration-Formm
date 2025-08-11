@@ -10,7 +10,7 @@
                 </td>
                 <td colspan="2">
     
-                <p><strong>Our fleet is recruiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></p></td></strong>
+                <p><strong>Our fleet is recruiting some soldiers<br> to defend our base if you're willing just<br> fill up the form below, and goodluck private.<br></p></strong>
                 </td>
             </tr>
             <tr>
